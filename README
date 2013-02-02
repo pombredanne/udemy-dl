@@ -1,1 +1,4 @@
-A script to download downloadable lectures for a udemy course.
+A script to download downloadable lectures for a udemy course. Non downloadable content is skipped over.
+
+Usage:
+python udemy-dl.py -u email udemy_course_link
